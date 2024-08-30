@@ -1,16 +1,15 @@
-## Hi there 👋
+## boas vidas ao meu perfil💙
 
-<!--
-**razinha22/razinha22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é razinha22
+-Estou estudando no Aulura
+-Estou me desenvolvendo na linguagem javaScript
+-utilizo essse espaço para minha orgalização compartilhamento dos meus projetos desevolvindos
 
-Here are some ideas to get you started:
+###V0cê pode entrar em cotato comigo📫
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+![](https://tenor.com/view/hola-saludo-hola-tu-hi-gif-9988118)
